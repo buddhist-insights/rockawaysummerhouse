@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Rockaway Summer House</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 06 Dec 2024 04:17:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Not eating meat for one day is one day of compassion.</title>
+		<link>/2018/01/09/not-eating-meat-for-one-day-is-one-day-of-compassion/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 09 Jan 2018 14:42:08 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=553</guid>
+
+					<description><![CDATA[“Not eating meat for one day is one day of compassion. Not eating meat for six days is six days of compassion. Not eating meat for ten days is ten days of compassion. This is a way to cultivate our sympathy, kindness and compassion.” MASTER SHENG YEN]]></description>
+										<content:encoded><![CDATA[<blockquote><p>“Not eating meat for one day is one day of compassion. Not eating meat for six days is six days of compassion. Not eating meat for ten days is ten days of compassion. This is a way to cultivate our sympathy, kindness and compassion.”</p></blockquote>
+<p><strong>MASTER SHENG YEN</strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
